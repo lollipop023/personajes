@@ -58,15 +58,15 @@ body{
 }
 @media screen and (max-width: 1000px){
     .contenedor-imagenes{
-        width: 35%;
+        width: 95%;
     }
 }
 @media screen and (max-width: 700px){
     .contenedor-imagenes{
-        width: 50%;
+        width: 90%;
     }
     .contenedor-imagenes .image{
-        width:38%;
+        width:48%;
     }
 }
 @media screen and (max-width: 450px){
@@ -74,10 +74,10 @@ body{
         font-size: 22px;
     }
     .contenedor-imagenes{
-        width: 50%;
+        width: 98%;
     }
     .contenedor-imagenes .image{
-        width:38%;
+        width:48%;
     }
 }
 
